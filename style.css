@@ -1,0 +1,27 @@
+li{
+    display: inline;
+     
+    
+}
+.A:hover{
+    background-color: yellow;
+    border: solid 1px;
+    margin-right: 1000px;
+    }
+ .B:hover{
+        background-color: yellow;
+        border: solid 1px;
+        margin-right: 1000px;
+        }
+ .C:hover{
+            background-color: yellow;
+            border: solid 1px;
+            margin-right: 1000px;
+            }
+.D:hover{
+                background-color: yellow;
+                border: solid 1px;
+                margin-right: 1000px;
+                }
+
+
